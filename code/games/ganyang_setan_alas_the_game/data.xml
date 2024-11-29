@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <game>
-	<title>Ganyang Setan Alas The Game</title>
+	<title>Ganyang Setan Alas! The Game</title>
 	<release-date>September 2023 (Android), 2025 (PC)</release-date>
 	<website>N/A</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
@@ -22,17 +22,17 @@
 	</platforms>
 	
 	<description>
-	A single-player shooter adapted from the film Setan Alas!: The Draft by Yusron Fuadi and Anindita Suryarasmi. Set in a haunting Indonesian forest, this game plunges players into a thrilling fight for survival against relentless zombies, where resilience and agility are key.
+	A single-player shooter adapted from the film Setan Alas! by Yusron Fuadi and Anindita Suryarasmi. Set in a haunting Indonesian forest, this game plunges players into a thrilling fight for survival against relentless zombies, where resilience and agility are key.
 	</description>
 	
 	<history>
-	A group of four Software Engineering Technology students from the Vocational College of Universitas Gadjah Mada set out to create a game using Unreal Engine 5. Yusron Fuadi, the director of the award-winning film Setan Alas! The Draft, which was in its final phases of development, envisioned a game adaptation of his film during this period.
+	A group of four Software Engineering Technology students from the Vocational College of Universitas Gadjah Mada set out to create a game using Unreal Engine 5. Yusron Fuadi, the director of the award-winning film Setan Alas!, which was in its final phases of development, envisioned a game adaptation of his film during this period.
 
-	The team successfully developed a prototype of Ganyang Setan Alas for Android in a two months. The prototype was revealed in August 2023 and sparked enthusiasm among the Vocational College community during internal expo events. The Android version was released on the Google Play Store in September 2023.
+	The team successfully developed a prototype of Ganyang Setan Alas! for Android in a two months. The prototype was revealed in August 2023 and sparked enthusiasm among the Vocational College community during internal expo events. The Android version was released on the Google Play Store in September 2023.
 
-	Yusron Fuadi was motivated by this achievement to create a more immersive, realistic version of the game for the PC. Ganyang Setan Alas: The Game for PC was initiated in January 2024 when the project was expanded to include 11 students as the primary development team.
+	Yusron Fuadi was motivated by this achievement to create a more immersive, realistic version of the game for the PC. Ganyang Setan Alas! The Game for PC was initiated in January 2024 when the project was expanded to include 11 students as the primary development team.
 
-	The game garnered substantial attention during 2024, as it was featured at prominent expos such as INTI's GAMECOMM in Jakarta. Ganyang Setan Alas: The Game team intends to release a demo/early access version in December 2024, with the full release anticipated in early 2025.
+	The game garnered substantial attention during 2024, as it was featured at prominent expos such as INTI's GAMECOMM in Jakarta. Ganyang Setan Alas! The Game team intends to release a demo/early access version in December 2024, with the full release anticipated in early 2025.
 	</history>
 
 	<features>
@@ -41,7 +41,7 @@
 		<feature>Utilize Detonable Claymore Bombs to eliminate groups of zombies in one massive blast.</feature>
 		<feature>Turn the environment to your advantage! Shoot oil lamps to set zombies ablaze with fire.</feature>
 		<feature>Stunning graphics with highly detailed models and shaders.</feature>
-		<feature>Experience cinematic cutscenes that expand the lore of the Setan Alas universe, unveiling the next thrilling chapter.</feature>
+		<feature>Experience cinematic cutscenes that expand the lore of the Setan Alas! universe, unveiling the next thrilling chapter.</feature>
 	</features>
 	
 	<trailers>
@@ -74,7 +74,7 @@
 		<credit>
 			<person>Yusron Fuadi</person>
 			<website>https://akasacara.com/</website>
-			<role>Director of Akasacara Film and LodhongKrupuk Interactive</role>
+			<role>Director of Akasacara Film and LodhongKrupuk Interactive, Game Director, Game Designer</role>
 		</credit>
 		<credit>
 			<person>Andhika Rahmanu</person>
@@ -109,6 +109,10 @@
 			<role>Senior Artist</role>
 		</credit>
 		<credit>
+			<person>Rayendra Arya Daneswara</person>
+			<role>Lead Artist</role>
+		</credit>
+		<credit>
 			<person>Hafizh Favian Setiadhy Pratama</person>
 			<role>Artist</role>
 		</credit>
@@ -119,10 +123,6 @@
 		<credit>
 			<person>Muhammad Naufal Rosyad</person>
 			<role>Technical Artist</role>
-		</credit>
-		<credit>
-			<person>Rayendra Arya Daneswara</person>
-			<role>Lead Artist</role>
 		</credit>
 		<credit>
 			<person>Muhammad Mada Ibrahim</person>
