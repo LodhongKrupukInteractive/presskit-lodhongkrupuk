@@ -1,0 +1,7 @@
+hr.spacer {
+    border: 0;            /* remove visible line */
+    height: 24px;         /* height = space you want */
+    margin: 0;            /* adjust if you need extra top/bottom gap */
+    background: transparent;
+    display: block;
+}
